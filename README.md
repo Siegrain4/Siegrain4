@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rey Sandy Alzamora</h1>
+<h1 align="center">Hi 👋, I'm Rey</h1>
 <h3 align="center">A Final Year College Student that focusing on Front End Mobile Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
