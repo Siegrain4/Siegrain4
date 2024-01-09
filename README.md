@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siegrain4&label=Profile%20views&color=0e75b6&style=flat" alt="siegrain4" /> </p>
 
-- 🌱 I’m currently learning **Laravel, Flutter, Android Studio**
+- 🌱 Tech Focus: **Laravel, Flutter, Android Studio**
 
 - 👨‍💻 All of my projects are available at [github.com/Siegrain4](github.com/Siegrain4)
 
