@@ -1,11 +1,11 @@
-<h1 align="center">Rey</h1>
-<h3 align="center">Freelance Mobile Dev & Back End Dev</h3>
+<h1 align="center">Rey Watson</h1>
+<h3 align="center">Mobile Dev & Back End Dev</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siegrain4&label=Profile%20views&color=0e75b6&style=flat" alt="siegrain4" /> </p>
 
-- 🌱 Tech Focus: **Laravel, Flutter, Android Studio**
+- 🌱 Tech Focus: **Laravel, Flutter, Android Studio, MERN **
 
 - 👨‍💻 All of my projects are available at [github.com/Siegrain4](github.com/Siegrain4)
 
